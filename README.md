@@ -66,6 +66,7 @@ int main() {
   return 0;
 }
 ```
+------------
 
 ## GLORTHO
 
@@ -92,6 +93,7 @@ el color y otros atributos de dibujo, puede llamar a glRectd para dibujar el rec
 glColor3f(1.0, 0.0, 0.0); // Establecer el color rojo
 glRectd(0.0, 0.0, 100.0, 50.0); // Dibujar un rectángulo de 100x50 a partir del punto (0, 0)
 ```
+------------
 
 # PROGRAMA EN EJECUCIÓN
 
